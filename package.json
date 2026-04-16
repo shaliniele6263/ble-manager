@@ -1,0 +1,22 @@
+{
+    "name": "@shaliniele6263/ble-manager",
+    "version": "1.0.1",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native",
+        "ble",
+        "bluetooth",
+        "ble-plx"
+    ],
+    "author": "",
+    "license": "ISC",
+    "description": "Reusable BLE manager for React Native apps",
+    "peerDependencies": {
+        "react": "*",
+        "react-native": "*",
+        "react-native-ble-plx": "*"
+    }
+}
